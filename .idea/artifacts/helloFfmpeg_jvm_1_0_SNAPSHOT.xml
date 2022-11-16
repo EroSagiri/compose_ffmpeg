@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="helloFfmpeg-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="helloFfmpeg-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="helloFfmpeg.jvmMain" />
+    </root>
+  </artifact>
+</component>
